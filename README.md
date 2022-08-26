@@ -1,5 +1,4 @@
 # Background-Segmentation
-Background Segmentation by OpenCV, Mediapipe and PyQt5
  
 1. [Clone repository](#clone)
 2. [Install dependencies](#set_req)
