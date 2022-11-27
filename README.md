@@ -25,5 +25,5 @@ python main.py
 
 # <a name="description">Description program</a>
 
-he application is designed to represent a specific user background during conferences, meetings, calls with other people, and so on.
+The application is designed to represent a specific user background during conferences, meetings, calls with other people, and so on.
 It is enough for the user to place the necessary background images in the `imgs` folder. After that, during the conversation, she will be able to switch the background using the keyboard arrows.
