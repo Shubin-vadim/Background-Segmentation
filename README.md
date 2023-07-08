@@ -1,17 +1,19 @@
 # Background-Segmentation
  
-1. [Clone repository](#clone)
-2. [Install dependencies](#set_req)
+1. [Descriprion bot](#description)
+2. [Installation](#install)
 3. [Run application](#run)
-4. [Descriprion program](#description)
+4. [Examples](#examples)
+   
+# <a name="description">Desctiption project</a>
 
+# <a name="install">Installation</a>
 
-# <a name="clone">Clone repository</a>
 ```
 git clone https://github.com/Shubin-vadim/Background-Segmentation.git
 ```
 
-# <a name="set_req">Install dependencies</a>
+# <a>Install dependencies</a>
 
 ```
 pip3 install -r requirements.txt
@@ -23,7 +25,7 @@ pip3 install -r requirements.txt
 python main.py
 ```
 
-# <a name="description">Description program</a>
-
-The application is designed to represent a specific user background during conferences, meetings, calls with other people, and so on.
-It is enough for the user to place the necessary background images in the `imgs` folder. After that, during the conversation, she will be able to switch the background using the keyboard arrows.
+# <a name="examples">Examples</a>
+<img src="https://github.com/Shubin-vadim/DLSHool_tg_bot/blob/master/imgs/cat.jpg" width="400" alt="cat" />
+<img src="https://github.com/Shubin-vadim/DLSHool_tg_bot/blob/master/imgs/city.jpg" width="400" alt="city" />
+<img src="https://github.com/Shubin-vadim/DLSHool_tg_bot/blob/master/imgs/zebras.jpg" width="400" alt="zebras" />
